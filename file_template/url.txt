@@ -1,0 +1,2 @@
+https://service2.free.beeceptor.com/my/api/path
+https://service1.free.beeceptor.com/my/api/path
